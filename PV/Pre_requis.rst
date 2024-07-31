@@ -34,11 +34,12 @@ véhicules enregistrés sur l’application
 Le tableau ci dessous vous explique la sémantique des statuts :
 
 .. list-table:: Statut des véhicules
-    :widths: 5 15
+    :widths: 25 75
     :header-rows: 1
+    :class: fixed-width-table
 
-    * - Statut
-      - Signification
+    * - **Statut**
+      - **Signification**
     * - 1 **A traiter**
       - Le véhicule est déjà enregistré à la caisse, le compte d’enregistrement des informations de carte grise dois **entrer les informations de la carte grise.**
     * - 2 **A inspecter**
