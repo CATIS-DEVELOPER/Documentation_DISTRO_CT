@@ -1,4 +1,4 @@
-Encaissement de client
+Encaissement du client
 ++++++++++++++++++++++
 
 
