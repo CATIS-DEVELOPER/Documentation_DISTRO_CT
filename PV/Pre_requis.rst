@@ -8,6 +8,7 @@ Le Diagramme ci-dessous présente les différentes étapes d’établissement d�
 (PV) pour un contrôle initial.
 
 .. image:: ../img/DiagActivités.PNG
+    :align: center
     :name: Diagramme d'activités du processus
 .. centered:: Diagramme d'activités du processus
 
@@ -25,6 +26,7 @@ véhicules enregistrés sur l’application
 
 
 .. image:: ../img/DiagStateTransition.PNG
+    :align: center
     :name: Diagramme d'état-transition du véhicule
 .. centered:: Diagramme d'état-transition du véhicule
 
@@ -32,7 +34,7 @@ véhicules enregistrés sur l’application
 Le tableau ci dessous vous explique la sémantique des statuts :
 
 .. list-table:: Statut des véhicules
-    :widths: 10 30
+    :widths: 5 15
     :header-rows: 1
 
     * - Statut

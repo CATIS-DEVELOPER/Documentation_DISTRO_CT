@@ -21,12 +21,14 @@ Les étapes d'enregistrement du client sont :
 Une fois connecté à un compte ayant le rôle de caisse, il faut procéder à **l’ouverture de la caisse** en saisissant le montant initial en possession à l’instant où l’on commence les enregistrements.
 
 .. image:: ../img/Encaissement1.PNG
+    :align: center
     :name: Ouvrir la caisse
 .. centered:: Ouvrir la caisse
 
 Saisir le montant initial en caisse à l’instant de l’ouverture de la caisse.
 
 .. image:: ../img/Encaissement2.PNG
+    :align: center
     :name: Entrée du montant en caisse
 .. centered:: Entrée du montant en caisse
 
@@ -34,6 +36,7 @@ Une fois la caisse ouverte, nous avons cette interface avant de commencer les en
 il faut afficher les catégories de véhicules et ajouter un onglet
 
 .. image:: ../img/categorieVehicule.PNG
+    :align: center
     :name: Choix de la catégorie du véhicule
 .. centered:: Choix de la catégorie du véhicule
 
@@ -63,16 +66,19 @@ Renseigner les champs suivants à l’aide de la carte grise :
  Après avoir remplis les champs, cliquez sur **« Encaisser ».** Les figures ci-dessous illustrent bel et bien le processus.
 
 .. image:: ../img/infosVehicule1.PNG
+    :align: center
     :name: Renseigner les informations du véhicule et du client
 .. centered:: Renseigner les informations du véhicule et du client
 
 .. image:: ../img/infosVehicule2.PNG
+    :align: center
     :name: Renseigner les informations du véhicule et du client
 .. centered:: Renseigner les informations du véhicule et du client
 
 Puis nous devons confirmer l'encaissement 
 
 .. image:: ../img/confirmerEncaissement.PNG
+    :align: center
     :name: Confirmer l'encaissement
 .. centered:: Confirmer l'encaissement
 
@@ -86,6 +92,7 @@ En effet une fois l’encaissement effectué, on reçoit une notification **« e
 peut à présent imprimer le ticket de paiement.
 
 .. image:: ../img/impressionFacture.PNG
+    :align: center
     :name: Imprimer la facture
 .. centered:: Imprimer la facture
 
