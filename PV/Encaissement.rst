@@ -3,6 +3,7 @@ Encaissement du client
 
 Le figure ci-dessous présente les différentes étapes à suivre pour réaliser l'encaissement d'un client
 
+
 .. image:: ../img/etapeEncaissement.PNG
     :name: Etapes pour l'encaissement
 .. centered:: Etapes pour l'encaissement
@@ -38,12 +39,19 @@ il faut afficher les catégories de véhicules et ajouter un onglet
 * Remplir les champs
 
 Renseigner les champs suivants à l’aide de la carte grise :
+
 ➢ Référence
+
 ➢ Sélectionner l’icône de la catégorie de véhicule correspondante
+
 ➢ Client
+
 ➢ Numéro de téléphone du client
+
 ➢ Contact
+
 ➢ Numéro de téléphone du contact
+
 ➢ Choisir le type de document qui permet d’effectuer l’enregistrement
 
     * Carte grise
