@@ -34,7 +34,7 @@ véhicules enregistrés sur l’application
 Le tableau ci dessous vous explique la sémantique des statuts :
 
 .. list-table:: Statut des véhicules
-    :widths: 10 30
+    :widths: 5 10
     :header-rows: 1
     :class: fixed-width-table
 
