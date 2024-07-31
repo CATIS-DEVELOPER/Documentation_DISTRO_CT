@@ -6,6 +6,7 @@ Rôle de la Caisse
 
 Un compte ayant le rôle caisse effectue les opérations suivantes :
 
+
 * Enregistrement d’un client
 * Impression du ticket de paiement dans DITROS CT
 
@@ -14,9 +15,11 @@ Rôle de gestion de la carte grise
 
 Le compte ayant les droits de gestion de carte grise effectue :
 
+
 * Le remplissage dans DIDTROS CT des informations de la carte grise du client.
 
 Il a également la possibilité de :
+
 
 * Visualiser et modifier les informations du certificat d’immatriculation
 
@@ -25,6 +28,7 @@ Rôle de controlleur
 
 Le compte ayant les droits du **contrôleur** a pour rôle d’effectuer le contrôle technique
 proprement dit :
+
 
 * Il lance l’inspection via l’application sur la tablette,
 * Il gère le passage des véhicules sur les bancs de tests,
@@ -41,6 +45,7 @@ Rôle de responsable d'expoitation
 =================================
 
 Le compte ayant les droits d’exploitation effectue les opérations suivantes :
+
 
 * L’impression du procès-verbal de contrôle technique d’un véhicule
 * L’activation des Procès-verbaux
