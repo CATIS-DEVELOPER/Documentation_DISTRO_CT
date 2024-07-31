@@ -5,6 +5,7 @@ Le figure ci-dessous présente les différentes étapes à suivre pour réaliser
 
 
 .. image:: ../img/etapeEncaissement.PNG
+    :align: center
     :name: Etapes pour l'encaissement
 .. centered:: Etapes pour l'encaissement
 
