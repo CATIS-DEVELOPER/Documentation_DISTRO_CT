@@ -5,20 +5,19 @@ Pour procéder à l'enregistrement de la carte grise, il tout d'abord avoir le r
 
 * **Actualiser la liste des inspections**
 
-Pour cela : 
+Pour cela
 
     #. cliquez sur **« CRM »**
     #. cliquez sur **«  Visites en cours »**
+    #. le véhicule que vous avez enregistré s’affiche sur la liste d’inspections avec le statut **Màj**
+    #. sélectionnez le véhicule enregistré précédemment
+    #. cliquez sur **« Mettre à jour »**
 
 .. image:: ../img/listeVisites.PNG
     :align: center
     :name: Liste de visite en cours
 .. centered:: Liste de visite en cours
-
-    #. le véhicule que vous avez enregistré s’affiche sur la liste d’inspections avec le statut **Màj**
-    #. sélectionnez le véhicule enregistré précédemment
-    #. cliquez sur **« Mettre à jour »**
-
+    
 .. image:: ../img/miseAjour.PNG
     :align: center
     :name: Véhicule à mettre à jour
@@ -48,7 +47,7 @@ Ensuite Remplissez les champs suivants tels que spécifiés sur la carte grise d
 
 ➢ Genre de véhicule*
 
-➢ Marque *
+➢ Marque*
 
 ➢ Type de véhicule*
 
@@ -56,9 +55,9 @@ Ensuite Remplissez les champs suivants tels que spécifiés sur la carte grise d
 
 ➢ N° d’enregistrement*
 
-➢ D.M.C *
+➢ D.M.C*
 
-➢ Energie *
+➢ Energie*
 
 ➢ Cylindrée*
 
@@ -70,7 +69,7 @@ Ensuite Remplissez les champs suivants tels que spécifiés sur la carte grise d
 
 ➢ Charge utile*
 
-➢ Poids total *
+➢ Poids total*
 
 ➢ Date de délivrance*
 
@@ -85,4 +84,4 @@ Après avoir remplis les champs, cliquer sur « Submit ».
     :name: Confirmation des informations de la carte grise
 .. centered:: Confirmation des informations de la carte grise
 
-**Remarque :** le remplissage des champs se terminant avec **un Astérix *** est **obligatoire.**
+**Remarque :** le remplissage des champs se terminant avec **un Astérix (*)** est **obligatoire.**
