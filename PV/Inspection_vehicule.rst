@@ -30,7 +30,8 @@ Dans un premier temps, Connectez-vous à l’interface Web avec un compte ayant 
     :name: Connexion à l'application
 .. centered:: Connexion à l'application
 
-* **Renseigner vos paramètres de connexions** (identifiant et mot de passe) : Vous avez en face de vous une interface de connexion. Renseignez vos paramètres de connexion à savoir
+* **Renseigner vos paramètres de connexions** (nom d'utilisateur et mot de passe) : Vous avez en face de vous une interface de connexion. Renseignez vos paramètres de connexion à savoir
+  
   * Votre nom d'utilisateur
   * Votre mot de passe
   * cliquez sur **« Connexion »**.
