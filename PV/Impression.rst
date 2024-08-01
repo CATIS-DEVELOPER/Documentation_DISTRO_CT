@@ -3,7 +3,7 @@ Impression du procès verbal
 
 Pour imprimer un procès verbal, vous devez préalablement avoir e rôle de **« contrôleur »**. Suite à celà deux cas de figure se présentent à nous.
 
-**1 Le procès verbal est accepté**
+**1 __Le procès verbal est accepté__**
 
 Dans ce cas de figure nous devons suivre ces étapes :
 
@@ -38,7 +38,7 @@ Dans ce cas de figure nous devons suivre ces étapes :
 
 * Appuyer simultanément les touches **« ctrl »** et **« p »** pour lancer l’impression
 
-**2 Le procès verbal est refusé**
+**2 __Le procès verbal est refusé__**
 
 Dans ce cas de figure nous devons suivre ces étapes :
 
