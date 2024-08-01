@@ -69,8 +69,8 @@ Nous commencerons cette étape par cliquer sur le bouton **« envoyer sur le ban
     ⮚ Le kilométrage*,
 
     ⮚ Et les freins d’essieux*
-
-**NB :** La ligne de test que vous choisissez ici au niveau du champ **« ligne utilisé »** est celle que vous devrez utiliser pour le contrôle technique du véhicule sur le banc. Si vous avez choisi la **mauvaise ligne**, le contrôle technique ne pourra pas s’opérer jusqu’à la fin.
+    
+    **NB :** La ligne de test que vous choisissez ici au niveau du champ **« ligne utilisé »** est celle que vous devrez utiliser pour le contrôle technique du véhicule sur le banc. Si vous avez choisi la **mauvaise ligne**, le contrôle technique ne pourra pas s’opérer jusqu’à la fin.
 
 #. Cliquez ensuite sur **« Submit »**.
 
