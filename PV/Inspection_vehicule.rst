@@ -9,7 +9,9 @@ L'inspection d'un véhicule passe par quatre étapes illustrées pas la figure c
 .. centered:: Etapes de l'inspection
 
 **REMARQUE :** au cours du processus de Contrôle Technique, le contrôleur utilisera deux interfaces de l’application DITROS CT pour ses Operations :
+
 * **L’interface web :** grâce à laquelle il affectera le véhicule sur une ligne de test et il signera à la fin du contrôle.
+
 * **L’interface mobile :** grâce à laquelle il prendra les photos et il relèvera les défauts visuels du véhicule
 
 Dans un premier temps, Connectez-vous à l’interface Web avec un compte ayant le droit du contrôleur comme suit :
