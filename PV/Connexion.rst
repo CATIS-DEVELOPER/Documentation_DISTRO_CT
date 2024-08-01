@@ -6,8 +6,8 @@ Il est conseillé de choisir de préférence les navigateurs Firefox ou Google C
 
 .. image:: ../img/navigateur.jpg
     :align: center
-    :name: Firefox ou Google Chrome
-.. centered:: Firefox ou Google Chrome
+    :name: Icône de Firefox ou de Google Chrome
+.. centered:: Icône de Firefox ou de Google Chrome
 
 .. image:: ../img/connexion.PNG
     :align: center

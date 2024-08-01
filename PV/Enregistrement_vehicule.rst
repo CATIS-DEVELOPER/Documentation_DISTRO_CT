@@ -17,7 +17,7 @@ Pour cela
     :align: center
     :name: Liste de visite en cours
 .. centered:: Liste de visite en cours
-    
+
 .. image:: ../img/miseAjour.PNG
     :align: center
     :name: Véhicule à mettre à jour
@@ -77,7 +77,7 @@ Ensuite Remplissez les champs suivants tels que spécifiés sur la carte grise d
 
 ➢ Centre SSDT*
 
-Après avoir remplis les champs, cliquer sur « Submit ».
+Après avoir remplis les champs, cliquer sur **« Submit »**.
 
 .. image:: ../img/ConfirmationCarteGrise.PNG
     :align: center
