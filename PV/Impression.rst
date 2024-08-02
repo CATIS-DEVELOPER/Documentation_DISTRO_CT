@@ -38,7 +38,7 @@ Dans ce cas de figure nous devons suivre ces étapes :
 
 * Appuyer simultanément les touches **« ctrl »** et **« p »** pour lancer l’impression
 
-**2** **__Le procès verbal est refusé__**
+**2** {{Le procès verbal est refusé|underline}}
 
 Dans ce cas de figure nous devons suivre ces étapes :
 
