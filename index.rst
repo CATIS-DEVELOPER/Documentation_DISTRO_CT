@@ -18,6 +18,12 @@ document, seront principalement développés 04 (quatre) parties : la présentat
 équipements, la présentation des rôles, la procédure d’établissement d’un PV pour un contrôle 
 initial et enfin la procédure pour faire une contre visite.
 
+Qui êtes vous ?
+
+* un caissier(ière)
+* un controleur
+* un responsable d'exploitation
+
 .. toctree::
    :maxdepth: 2
    :hidden:

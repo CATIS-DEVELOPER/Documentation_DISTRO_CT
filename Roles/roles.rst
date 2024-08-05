@@ -1,5 +1,5 @@
-Présentation des différents rôles dans l'application
-++++++++++++++++++++++++++++++++++++++++++++++++++++
+PRESENTATION DES ROLES
+++++++++++++++++++++++
 
 Rôle de la Caisse
 =================
@@ -20,8 +20,8 @@ Il a également la possibilité de :
 
 * Visualiser et modifier les informations du certificat d’immatriculation
 
-Rôle de controlleur
-===================
+Rôle de contrôleur
+==================
 
 Le compte ayant les droits du **contrôleur** a pour rôle d’effectuer le contrôle technique
 proprement dit :
