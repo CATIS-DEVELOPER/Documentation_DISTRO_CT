@@ -1,7 +1,7 @@
 Impression du procès verbal
 +++++++++++++++++++++++++++
 
-Pour imprimer un procès verbal, vous devez préalablement avoir e rôle de **« contrôleur »**. Suite à celà deux cas de figure se présentent à nous.
+Pour imprimer un procès verbal, vous devez préalablement avoir e rôle de **« responsable d'exploitation »**. Suite à celà deux cas de figure se présentent à nous.
 
 **1.**  Le procès verbal est accepté
 ************************************

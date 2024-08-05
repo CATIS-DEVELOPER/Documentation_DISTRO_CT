@@ -20,24 +20,25 @@ initial et enfin la procédure pour faire une contre visite.
 
 Qui êtes vous ?
 
-* un caissier(ière)
-* un controleur
-* un responsable d'exploitation
+* :doc:`un caissier(ière) <PV/Encaissement>`
+* :doc:`un responsable de la mise à jour de la carte grise <PV/Enregistrement_vehicule>`
+* :doc:`un controleur <PV/Inspection_vehicule>`
+* :doc:`un responsable d'exploitation <PV/Impression>`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Présentation des rôles
+   :caption: Pré requis
 
    Roles/roles.rst
+   Roles/Pre_requis.rst
+   Roles/Connexion.rst
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Processus d'obtention d'un PV
 
-   PV/Pre_requis.rst
-   PV/Connexion.rst
    PV/Encaissement.rst
    PV/Enregistrement_vehicule.rst
    PV/Inspection_vehicule.rst

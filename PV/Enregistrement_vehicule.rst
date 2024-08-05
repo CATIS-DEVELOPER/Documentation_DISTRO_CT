@@ -1,7 +1,7 @@
 Enregistrement de la carte grise
 ++++++++++++++++++++++++++++++++
 
-Pour procéder à l'enregistrement de la carte grise, il tout d'abord avoir le rôle qui le permet. Ensuite nous devons suivre les étapes suivantes : 
+Pour procéder à l'enregistrement de la carte grise, il tout d'abord avoir le rôle qui le permet (mise à jour de la carte grise). Ensuite nous devons suivre les étapes suivantes : 
 
 * **Actualiser la liste des inspections**
 
