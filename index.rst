@@ -5,6 +5,7 @@
 
 Welcome to DISTRO_CT's documentation!
 =====================================
+
 **DITROS** est un ensemble de solutions/services utilisant l'innovation et la technologie 
 numérique pour faire progresser la sécurité routière en général et permettre aux 
 gouvernements et autres organismes publics/privés d'atteindre les objectifs de l’ONU en 
@@ -23,7 +24,8 @@ Qui êtes vous ?
 * :doc:`un caissier(ière) <PV/Encaissement>`
 * :doc:`un responsable de la mise à jour de la carte grise <PV/Enregistrement_vehicule>`
 * :doc:`un controleur <PV/Inspection_vehicule>`
-* :doc:`un responsable d'exploitation <PV/Impression>`
+* :doc:`un responsable d'exploitation <PV/Impression>`.
+
 
 .. toctree::
    :maxdepth: 2
