@@ -262,7 +262,7 @@ Sur la tablette, revenez sur l’application web. Les tests viennent d’être r
     :name: Inspection refusée
 .. centered:: Inspection refusée
 
-* **1er cas : « Inspection ACCEPTEE »**
+* **2e cas : « Inspection ACCEPTEE »**
 
 .. image:: ../img/inspectionAcceptee.PNG
     :align: center
