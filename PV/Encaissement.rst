@@ -1,7 +1,7 @@
 Encaissement du client
 ++++++++++++++++++++++
 
-Le figure ci-dessous présente les différentes étapes à suivre pour réaliser l'encaissement d'un client
+La figure ci-dessous présente les différentes étapes à suivre pour réaliser l'encaissement d'un client
 
 
 .. image:: ../img/etapeEncaissement.PNG

@@ -84,4 +84,4 @@ Après avoir remplis les champs, cliquer sur **« Submit »**.
     :name: Confirmation des informations de la carte grise
 .. centered:: Confirmation des informations de la carte grise
 
-**Remarque :** le remplissage des champs se terminant avec **un Astérix (*)** est **obligatoire.**
+**Remarque :** le remplissage des champs se terminant avec **un Astérisque (*)** est **obligatoire.**
