@@ -1,4 +1,4 @@
-.. DISTRO_CT documentation master file, created by
+.. DITROS_CT documentation master file, created by
    sphinx-quickstart on Fri Jul 26 11:24:48 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
