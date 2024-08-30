@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DISTRO_CT's documentation!
-=====================================
+Bienvenue dans la documentation de DISTRO_CT !
+==============================================
 
 **DITROS** est un ensemble de solutions/services utilisant l'innovation et la technologie 
 numérique pour faire progresser la sécurité routière en général et permettre aux 
